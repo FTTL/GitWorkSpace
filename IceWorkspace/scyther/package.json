@@ -18,7 +18,7 @@
     "@icedesign/img": "^1.x",
     "@icedesign/layout": "^1.x",
     "@icedesign/theme": "^1.x",
-    "axios": "^0.17.1",
+    "axios": "^0.18.1",
     "bizcharts": "latest",
     "classnames": "^2.2.5",
     "enquire-js": "^0.1.2",
